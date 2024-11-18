@@ -1,0 +1,16 @@
+title: Meu Site Pessoal
+description: >- # Descrição do site
+  Bem-vindo ao meu site pessoal hospedado no GitHub Pages.
+theme: minima
+
+# Outras configurações
+markdown: kramdown
+highlighter: rouge
+
+# Configurações de URL
+url: "https://leitaofilho.github.io"
+baseurl: ""
+
+# Configurações do Jekyll
+plugins:
+  - jekyll-feed

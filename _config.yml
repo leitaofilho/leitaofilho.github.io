@@ -1,6 +1,6 @@
 title: Meu Site Pessoal
 description: >- # Descrição do site
-  Bem-vindo ao meu site pessoal hospedado no GitHub Pages.
+  Bem-vindo ao meu site pessoal, onde compartilho projetos, ideias e insights.
 theme: minima
 
 # Outras configurações
@@ -14,3 +14,14 @@ baseurl: ""
 # Configurações do Jekyll
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+
+# Redes sociais
+author:
+  name: "Seu Nome"
+  email: "seuemail@email.com"
+  twitter_username: "seutwitter"
+  github_username: "leitaofilho"
+
+# SEO
+google_analytics: UA-XXXXXXX-X
